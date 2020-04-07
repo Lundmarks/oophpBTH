@@ -13,15 +13,15 @@ return [
         // Change here to use your own templatefile as layout
         "template" => "anax/v2/layout/dbwebb_se",
         "data" => [
-            "baseTitle" => " | oophp",
+            "baseTitle" => " | OL@oophp",
             "bodyClass" => null,
             "favicon" => "favicon.ico",
             "htmlClass" => null,
             "lang" => "sv",
             "stylesheets" => [
                 // Change here to set another default stylesheet
-                "css/dbwebb-se.min.css",
-                //"css/another.min.css",
+                // "css/dbwebb-se.min.css",
+                "css/dark.min.css",
             ],
             "javascripts" => [
                 "js/responsive-menu.js",

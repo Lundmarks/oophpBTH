@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,17 +12,16 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
 ---
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+Tidigare har vi studerat front-end och vad man som användare vill se: Nu går vi vidare till backend och hur man får en hemsida att agera som man vill!
 
-Skriv några kloka ord om kursen?
+I kursen oophp kommer vi gå igenom objektorienterad PHP, hur vi använder det som ett kraftfullt verktyg och hur det gör våra hemsidor bättre än om vi skulle utvecklat utan de metoder som erbjuds.
+Kursen har precis börjat, och kursmoment ett rör sig mot sitt slut under skrivandet av denna text! Nu kör vi.
 
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
-
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/computer.jpg?w=500&filter=grayscale caption="Alla tycker väl om en modern målning av en dator"]

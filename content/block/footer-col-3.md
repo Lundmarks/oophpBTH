@@ -1,3 +1,3 @@
-#### Footer col 3
+#### Att fyllas
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Jag lämnar lite tom text här. Jag kommer antagligen att uppdatera denna ruta till senare, men för tillfället så fyller jag den med lite brödtext som placeholder.

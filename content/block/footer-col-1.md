@@ -1,3 +1,4 @@
-#### Footer col 1
+#### Kontakt
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+Angående denna webbsida eller liknande, så kan jag kontaktas på <code>Ldmk@outlook.com</code>
+Endast arbets- eller student-relaterat.

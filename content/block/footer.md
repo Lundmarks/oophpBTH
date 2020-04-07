@@ -1,1 +1,5 @@
-Copyright år och ditt namn samt diverse länkar som du finner relevanta.
+<div class="footer-btm-text">Not quite Copyrighted 2019©
+
+Olle Lundmark
+
+BTH</div>

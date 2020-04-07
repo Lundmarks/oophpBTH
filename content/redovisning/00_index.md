@@ -3,4 +3,4 @@
 Redovisningstexter
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/redovisning/00_index.md`.
+Under denna hemsida så finnes mina redovisningstexter. I spalten till vänster så kan man kika på alla mina kursmoment som genomgåtts, och se vad mina slutgiltiga ord kring varje moment är.
