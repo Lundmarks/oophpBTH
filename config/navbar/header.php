@@ -29,6 +29,11 @@ return [
             ],
         ],
         [
+            "text" => "Spel: GMN",
+            "url" => "guess-game",
+            "title" => "Spelet Gissa mitt nummer!",
+        ],
+        [
             "text" => "Om",
             "url" => "om",
             "title" => "Om denna webbplats.",
